@@ -459,10 +459,12 @@ align-items: center;
 }
 
 .countries-title{
+    margin-bottom: 25px;
 
 }
 
 .countries-text{
+    margin-bottom: 77px;
 
 }
 
@@ -470,6 +472,7 @@ align-items: center;
     list-style-type: none;
     display: flex;
     justify-content: space-between;
+    margin-bottom: 70px;
 }
 
 .testimonial{
@@ -530,4 +533,51 @@ align-items: center;
     font-size: 37px;
     line-height: 43px;
     color: #252525;
+}
+.footer-site{
+    background-color: #717cff;
+    height: 346px;
+}
+.footer-block{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.logo-img{
+    margin-bottom: 26px;
+}
+
+.medium-list{
+    list-style-type: none;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 49px;
+    color: #EEEEEE;
+}
+.start-text{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 32px;
+    color: #EEEEEE;
+    margin-bottom: 58px;
+} 
+
+.text-start{
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 32px;
+    color: #EEEEEE;
+
+}
+.finally-div{
+    margin-top: 182px;
+    margin-left: 150px;
+    margin-bottom: 147px;
+}
+.footer-social{
+    display: flex;
+    justify-content: space-between;
+    width: 98px;
+    height: 17px;
 }
